@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/myflixer-guia",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a myflixer-guia",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/myflixer-guia.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://tagbookmarks.info/es/myflixer/"
+    },
+    "homepage": "https://tagbookmarks.info/es/myflixer/"
+}
